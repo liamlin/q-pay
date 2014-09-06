@@ -149,6 +149,7 @@ INSTALLED_APPS = (
     "django.contrib.admin",
     "south",
     "herokuapp",
+    "q_pay.apps.qpay_app"
 )
 
 
